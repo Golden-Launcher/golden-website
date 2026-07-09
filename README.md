@@ -1,2 +1,2 @@
-# golden-website
-The OFFICIAL website for the Golden Launcher!
+# Golden Launcher Website 
+The Repository of the Golden Launcher Webiste!
